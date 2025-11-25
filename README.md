@@ -14,7 +14,7 @@
 
 ---
 
-# 🧠 Programming Languages
+# 🖥️ Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -51,7 +51,7 @@
 
 ---
 
-# 📚 Databases
+# 🛢 Databases
 
 <p>
    <img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge"/>
@@ -63,7 +63,7 @@
 
 ---
 
-# 🧰 Tools & IDEs
+# 🛠️ Tools & IDEs
 
 <p>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
@@ -75,7 +75,7 @@
 
 ---
 
-# 🧠 Technical Concepts
+# 🧑🏻‍💻 Technical Concepts
 
 <p>
   <img src="https://img.shields.io/badge/MVC%20Architecture-005571?style=for-the-badge"/>
@@ -104,7 +104,7 @@
 
 ---
 
-# 📫 Connect With Me
+# 🔗 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/mahammedafzal-diwan-31b450236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
