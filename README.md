@@ -109,6 +109,10 @@
 <p>
   <a href="https://www.linkedin.com/in/mahammedafzal-diwan-31b450236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/mahammedafzal786"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://mahammedafzal-diwan-portfolio.vercel.app/" target="_blank">
+  <img src="https://raw.githubusercontent.com/mahammedafzaldiwan786/mahammedafzaldiwan786/main/portfolio-badge.svg" />
+</a>
+
 </p>
 
 
