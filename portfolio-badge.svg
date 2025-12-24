@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="40" viewBox="0 0 230 40">
+  <rect width="230" height="40" rx="6" fill="#0f172a"/>
+
+  <!-- Laptop -->
+  <rect x="12" y="9" width="26" height="16" rx="2" fill="none" stroke="#00ffcc" stroke-width="2"/>
+  <rect x="10" y="26" width="30" height="3" rx="1" fill="#00ffcc"/>
+
+  <!-- Person inside screen -->
+  <circle cx="25" cy="15" r="3" fill="#00ffcc"/>
+  <path d="M20 22c1.5-3 8.5-3 10 0" fill="#00ffcc"/>
+
+  <!-- Text -->
+  <text x="55" y="26" fill="white" font-size="16" font-family="Segoe UI, Arial, sans-serif" font-weight="600">
+    Developer Portfolio
+  </text>
+</svg>
