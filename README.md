@@ -87,20 +87,20 @@
 </p>
 
 ---
-<!--
+
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahammedafzal786&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammedafzal786&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahammedafzaldiwan786&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammedafzaldiwan786&theme=tokyonight" height="160px"/>
 </p>
--->
+
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammedafzal786&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammedafzaldiwan786&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
